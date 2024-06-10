@@ -1,0 +1,174 @@
+<resources>
+    <string name="app_name">Lista de Raças</string>
+
+    //Pastor Alemão
+
+    <string name="pastor_alemão_Carac">Energia: ● ● ● ● ●
+\nObediência: ● ● ● ● ●
+\nInteligência: ● ● ● ● ●
+\nTerritorialista: ● ● ● ● ●
+\nApego ao dono: ● ● ● ● ○
+\nTendência a latir: ● ● ● ● ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ○ ○ ○</string>
+
+    <string name="pastor_alemao_Desc">Pastor Alemão é originário da Alemanha e os antecessores dessa raça são datados do século XII. A partir do século XIX um oficial da cavalaria chamado Max von Stephantiz decidiu utilizar sua aposentadoria para criar uma raça uniforme e de excelência.</string>
+
+    //Pastor Belga
+
+    <string name="pastor_belga_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ● ● ●
+\nInteligência: ● ● ● ● ●
+\nTerritorialista: ● ● ● ● ○
+\nApego ao dono: ● ● ● ● ○
+\nTendência a latir: ● ● ● ○ ○
+\nAmizade com crianças: ● ● ● ● ○
+\nAmizade com outros animais: ● ● ● ● ○</string>
+
+    <string name="pastor_belga_desc">O pastor belga malinois vem ganhando um espaço imenso no Brasil. Utilizado especialmente pelas forças policiais, esse cachorro se destaca por ser obediente, facilmente educado e muito leal à sua família.</string>
+
+    //Pinscher_mini
+
+    <string name="Pinscher_mini_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ● ○ ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ● ●
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ● ○
+\nAmizade com crianças: ● ● ● ○ ○
+\nAmizade com outros animais: ● ● ○ ○ ○</string>
+
+    <string name="Pinscher_mini_desc">"50% ódio, 50% tremedeira". Já ouviu essa expressão antes? Apesar da fama de estressado, o Pinscher é um cão muito companheiro e que conquistou uma legião de fãs mundo afora.</string>
+
+    //Sao_bernardo
+
+    <string name="Sao_bernardo_Carac">Energia: ● ● ○ ○ ○
+\nObediência: ● ● ● ○ ○
+\nInteligência: ● ● ● ○ ○
+\nTerritorialista: ● ● ○ ○ ○
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ○ ○ ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ● ●</string>
+
+    <string name="Sao_bernardo_Desc">Criado no século XI como um cachorro para busca e salvamento - papel este que a raça desempenha até hoje em dia em locais de neve e gelo -, o são bernardo costuma ser tranquilo e bondoso, apesar de seu tamanho gigante.</string>
+
+    //Pit_Bull
+
+    <string name="Pit_Bull_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ● ● ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ● ●
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ○ ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ○ ○ ○ ○</string>
+
+    <string name="Pit_Bull_Desc">A fama de mau não condiz em nada com essa raça que é muito apegada aos seus pais humanos e super amorosa, inclusive com estranhos, pode acreditar!</string>
+
+    //Lulu_da_Pomeranea
+
+    <string name="Lulu_da_Pomeranea_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ○ ○ ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ○ ○
+\nApego ao dono: ● ● ● ● ○
+\nTendência a latir: ● ● ● ● ●
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ○ ○</string>
+
+    <string name="Lulu_da_Pomeranea_Desc">O Spitz Alemão não tem sua descendência muito bem definida. No entanto, como a Alemanha é o lugar mais provável de seu surgimento, o país ficou gravado no nome da raça. Existem cinco tipos de Spitz, o anão, o pequeno, o médio, o grande e o gigante.</string>
+
+    //Labrador_
+
+    <string name="Labrador_Carac">Energia: ● ● ● ● ●
+\nObediência: ● ● ● ● ●
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ○ ○
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ○ ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ● ●</string>
+
+    <string name="Labrador_Desc">Criado no século XIX no Canadá, o retriever do labrador (ou labrador retriever) é um dos cachorros mais populares do mundo. Sempre muito amável, amistoso e obediente.</string>
+
+    //Husky_siberiano_
+
+    <string name="Husky_siberiano_Carac">Energia: ● ● ● ● ●
+\nObediência: ● ● ○ ○ ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ○ ○ ○ ○
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ○ ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ● ○</string>
+
+    <string name="Husky_siberiano_Desc">O Husky siberiano surgiu na Sibéria há cerca de dois mil anos. A criação e dispersão da raça é atribuída a uma tribo chamada Chukchi, que utilizava os cachorros para puxarem os trenós.</string>
+
+
+    //Golden_Retriever_
+
+    <string name="Golden_Retriever_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ● ● ●
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ○ ○ ○
+\nApego ao dono: ● ● ● ● ○
+\nTendência a latir: ● ● ○ ○ ○
+\nAmizade com crianças: ● ● ● ● ○
+\nAmizade com outros animais: ● ● ● ● ○</string>
+
+    <string name="Golden_Retriever_Desc">O Golden Retriever é considerado por muitos o “cão dos sonhos”. Bastante inteligente, pronto para aprender truques e muitas vezes usados como cães-guia, o Golden é um cachorro ativo e que gosta de ajudar e agradar a todos.</string>
+
+    //Fila_Brasileiro_
+
+    <string name="Fila_Brasileiro_Carac">Energia: ● ● ○ ○ ○
+\nObediência: ● ● ● ● ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ● ●
+\nApego ao dono: ● ● ● ● ○
+\nTendência a latir: ● ● ● ○ ○
+\nAmizade com crianças: ● ● ○ ○ ○
+\nAmizade com outros animais: ● ● ○ ○ ○</string>
+
+    <string name="Fila_Brasileiro_Desc">Uma das poucas raças de cão criadas originalmente no Brasil, o fila brasileiro se destaca por ser um excelente e poderoso cachorro de guarda. Selecionado estrategicamente para tal função.</string>
+
+    //Dachshund_
+
+    <string name="Dachshund_Carac">Energia: ● ● ● ● ○
+\nObediência: ● ● ○ ○ ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ● ● ○ ○
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ● ●
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ● ○</string>
+
+    <string name="Dachshund_Desc">Popularmente conhecido como “salsicha”, a raça Dachshund é muito famosa no mundo todo. Sua origem ainda é incerta, apesar de terem sido encontradas referências de um cachorro com características semelhantes ao Dachshund no antigo Egito.</string>
+
+    //Border_collie_
+
+    <string name="Border_collie_Carac">Energia: ● ● ● ● ●
+\nObediência: ● ● ● ● ○
+\nInteligência: ● ● ● ● ●
+\nTerritorialista: ● ● ● ● ●
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ○ ○ ○
+\nAmizade com crianças: ● ● ● ● ○
+\nAmizade com outros animais: ● ● ● ○ ○</string>
+
+    <string name="Border_collie_Desc">Cães pastores (Pastoreio) fazem parte da história do planeta e ao longo de centenas de anos a criação desses cachorros tinha como objetivo principal desenvolver uma raça que exercesse esta função da forma mais eficiente possível.</string>
+
+    //Beagle_
+
+    <string name="Beagle_Carac">Energia: ● ● ● ● ●
+\nObediência: ● ● ○ ○ ○
+\nInteligência: ● ● ● ● ○
+\nTerritorialista: ● ○ ○ ○ ○
+\nApego ao dono: ● ● ● ● ●
+\nTendência a latir: ● ● ● ● ○
+\nAmizade com crianças: ● ● ● ● ●
+\nAmizade com outros animais: ● ● ● ● ○</string>
+
+    <string name="Beagle_Desc">Cachorros da raça Beagle são conhecidos por serem muito alegres e brincalhões. Sua principal característica é a paixão por farejar, especialmente comida! São muito curiosos e adoram botar o focinho no chão e sair à procura de novas descobertas.</string>
+
+</resources>
